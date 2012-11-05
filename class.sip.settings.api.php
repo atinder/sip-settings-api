@@ -2,7 +2,7 @@
 
 /**
  * Sip Settings API Class
- * @author Atinder <shopitpress.com>
+ * @author Atinder <atinder.com>
  * @link http://shopitpress.com
  * @example sip-settings-api.php
  */

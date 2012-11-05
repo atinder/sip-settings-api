@@ -4,6 +4,7 @@ Plugin Name: Sip Settings API Demo
 Plugin URI: http://shopitpress.com
 Author: atinder
 Version: 1.0
+Author URI: http://atinder.com
 */
 
 // Prevent loading this file directly

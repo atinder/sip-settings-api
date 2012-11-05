@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){e(".at-range").on("change",function(){rangeVal=e(this).val();e(this).siblings().closest("input").val(rangeVal)})});

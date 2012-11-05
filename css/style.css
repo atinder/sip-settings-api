@@ -1,0 +1,10 @@
+.wrap .at-section-wrap > h3{
+	//display: none !important;
+	//font-size: 0;
+}
+.wrap .nav-tab-wrapper{
+	margin-bottom: 20px;
+}
+.wrap h2 .nav-tab{
+ 	font-size: 14px;
+ }
